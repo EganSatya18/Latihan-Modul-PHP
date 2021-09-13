@@ -1,3 +1,4 @@
+# MODUL 1
 # 1. Latihan 1 Modul 1
 ![Alt Text](https://github.com/EganSatya18/Latihan-Modul-PHP/blob/main/Modul%201/Screenshot%20Latihan%201.1.png)
 # 2. Latihan 2 Modul 1
@@ -13,6 +14,7 @@
 # 7. Latihan Variabel Hasil Modul 1
 ![Alt Text](https://github.com/EganSatya18/Latihan-Modul-PHP/blob/main/Modul%201/Screenshot%20Variabel%20Hasil.png)
 
+# MODUL 2
 # 1. Latihan 1 Modul 2
 ![Alt Text](https://github.com/EganSatya18/Latihan-Modul-PHP/blob/main/Modul%202/Screenshot%20Latihan%202.1.png)
 # 2. Latihan 2 Modul 2
@@ -26,6 +28,7 @@
 # 6. Latihan 6 Modul 2
 ![Alt Text](https://github.com/EganSatya18/Latihan-Modul-PHP/blob/main/Modul%202/Screenshot%20Latihan%202.6.png)
 
+# MODUL 3
 # 1. Latihan 1 Modul 3
 ![Alt Text](https://github.com/EganSatya18/Latihan-Modul-PHP/blob/main/Modul%203/Screenshot%20Latihan%203.1.png)
 # 2. Latihan 2 Modul 3
@@ -39,6 +42,7 @@
 # 6. Latihan 6 Modul 3
 ![Alt Text](https://github.com/EganSatya18/Latihan-Modul-PHP/blob/main/Modul%203/Screenshot%20Latihan%203.6.png)
 
+# MODUL 4
 # 1. Latihan 1 Modul 4
 ![Alt Text](https://github.com/EganSatya18/Latihan-Modul-PHP/blob/main/Modul%204/Screenshot%204.1.png)
 # 2. Latihan 2 Modul 4
