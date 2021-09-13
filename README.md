@@ -27,6 +27,12 @@
 ![Alt Text](https://github.com/EganSatya18/Latihan-Modul-PHP/blob/main/Modul%202/Screenshot%20Latihan%202.5.png)
 # 6. Latihan 6 Modul 2
 ![Alt Text](https://github.com/EganSatya18/Latihan-Modul-PHP/blob/main/Modul%202/Screenshot%20Latihan%202.6.png)
+# 7. Latihan 7 Modul 2
+![Alt Text](https://github.com/EganSatya18/Latihan-Modul-PHP/blob/main/Modul%202/Screenshot%20Latihan%202.7.png)
+# 8. Latihan 8 Modul 2
+![Alt Text](https://github.com/EganSatya18/Latihan-Modul-PHP/blob/main/Modul%202/Screenshot%20Latihan%202.8.png)
+# 9. Latihan 9 Modul 2
+![Alt Text](https://github.com/EganSatya18/Latihan-Modul-PHP/blob/main/Modul%202/Screenshot%20Latihan%202.9.png)
 
 # MODUL 3
 # 1. Latihan 1 Modul 3
